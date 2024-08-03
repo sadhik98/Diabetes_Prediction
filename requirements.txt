@@ -1,1 +1,3 @@
-Hi 
+pip install streamlit
+pip install xgboost
+pip install sqlalchemy
