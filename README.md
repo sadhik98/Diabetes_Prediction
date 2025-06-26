@@ -9,6 +9,7 @@
 
 3.) By deploying the model on AWS EC2 with a Streamlit interface, the project enables scalable and real-time health prediction.
 
+---
 
 **Features**
 
