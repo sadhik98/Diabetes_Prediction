@@ -9,6 +9,7 @@
 
 3.) By deploying the model on AWS EC2 with a Streamlit interface, the project enables scalable and real-time health prediction.
 
+
 **Features**
 
 Data Cleaning & Imputation: Handle missing values and clean the dataset using Pandas.
@@ -19,9 +20,11 @@ Model Serialization: Save the best-performing model (XGBoost) with 97% accuracy 
 
 Cloud Deployment: Host the model with a user interface using Streamlit on AWS EC2.
 
+
 **Tools**
 
 Python, Pandas, Scikit-learn, XGBoost, Pickle, Streamlit, AWS EC2, NumPy
+
 
 **Approach**
 
@@ -37,9 +40,11 @@ Streamlit: To build an interactive UI for real-time predictions.
 
 AWS EC2: Cloud hosting of the app to make the prediction model accessible online.
 
+
 **Findings**
 
 Findings → Achieved 97% accuracy using XGBoost; deployed the complete system on AWS for real-time diabetes risk prediction, demonstrating the practical utility of ML in healthcare diagnostics.
+
 
 **Prerequesting Library**
 → All required libraries and environment setup details are documented in the requirements.txt file.
