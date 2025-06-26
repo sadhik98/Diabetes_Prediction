@@ -42,4 +42,4 @@ AWS EC2: Cloud hosting of the app to make the prediction model accessible online
 Findings → Achieved 97% accuracy using XGBoost; deployed the complete system on AWS for real-time diabetes risk prediction, demonstrating the practical utility of ML in healthcare diagnostics.
 
 **Prerequesting Library**
-→ All required libraries and environment setup details are documented in the diabetesModelRequirements.txt file.
+→ All required libraries and environment setup details are documented in the requirements.txt file.
