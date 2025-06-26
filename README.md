@@ -21,11 +21,13 @@ Model Serialization: Save the best-performing model (XGBoost) with 97% accuracy 
 
 Cloud Deployment: Host the model with a user interface using Streamlit on AWS EC2.
 
+---
 
 **Tools**
 
 Python, Pandas, Scikit-learn, XGBoost, Pickle, Streamlit, AWS EC2, NumPy
 
+---
 
 **Approach**
 
@@ -41,6 +43,7 @@ Streamlit: To build an interactive UI for real-time predictions.
 
 AWS EC2: Cloud hosting of the app to make the prediction model accessible online.
 
+---
 
 **Findings**
 
