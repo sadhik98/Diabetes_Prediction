@@ -1,4 +1,4 @@
-#Diabetes Prediction using ML Models and AWS Deployment
+# Diabetes Prediction using ML Models and AWS Deployment
 Problem Statement:
 
 1.) The "Diabetes Prediction and Deployment with Streamlit Application" aims to provide a complete ML-based solution to detect diabetic risk based on patient data.
