@@ -1,1 +1,1 @@
-# ClassMDT35_Streamlit_Aws
+# Diabetes_Prediction
